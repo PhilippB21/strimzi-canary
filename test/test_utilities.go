@@ -10,7 +10,7 @@ import (
 	"regexp"
 	"sync"
 
-	"github.com/Shopify/sarama"
+	"github.com/IBM/sarama"
 )
 
 type ExampleConsumerGroupHandler struct {
